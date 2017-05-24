@@ -5,8 +5,8 @@
  * Colabora en el patron Fachada.
  * @since: prototipo2.0
  * @source: PatronesDAO.java 
- * @version: 2.1 - 2017/04/03
- * @author: ajp
+ * @version: 2.2- 24/05/2017
+ * @author: sandra Fernández Cánovas
  */
 
 package accesoDatos.db4o;
